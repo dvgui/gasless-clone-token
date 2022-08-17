@@ -40,7 +40,7 @@
         "coverage": "hardhat coverage  --network hardhat "
     },
     "dependencies": {
-        "@nomiclabs/hardhat-ethers": "0.3.0-beta.13",
+        "@nomiclabs/hardhat-ethers": "2.1.1",
         "@primitivefi/hardhat-dodoc": "^0.2.3",
         "@tenderly/hardhat-tenderly": "^1.1.5",
         "hardhat-deploy-ethers": "0.3.0-beta.13",
