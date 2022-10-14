@@ -57,7 +57,7 @@
         "ethereumjs-wallet": "^1.0.2",
         "hardhat-abi-exporter": "^2.10.1",
         "hardhat-contract-sizer": "^2.6.1",
-        "hardhat-gas-reporter": "^1.0.8",
+        "hardhat-gas-reporter": "^1.0.9",
         "hardhat-preprocessor": "^0.1.4",
         "hardhat-tracer": "^1.1.0-rc.6",
         "hardhat-watcher": "^2.5.0",
