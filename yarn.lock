@@ -4148,7 +4148,7 @@ eth-gas-reporter@^0.2.25:
     sha1 "^1.1.1"
     sync-request "^6.0.0"
 
-eth-hooks@^4.6.2:
+eth-hooks@^4.6.0:
   version "4.6.2"
   resolved "https://registry.yarnpkg.com/eth-hooks/-/eth-hooks-4.6.2.tgz#2e21ce61759d49f9908846856704ba5d7aa0a864"
   integrity sha512-Sej8Vs4zmuUyonSXmjdvuF7LYVVYJ9cAu68ZrudHpSjubIedzNXmxlrzTQ9yqQSWeKTncUGaVQ67vcXPc/5NvQ==
@@ -5505,10 +5505,10 @@ hardhat-gas-reporter@^1.0.9:
     eth-gas-reporter "^0.2.25"
     sha1 "^1.1.1"
 
-hardhat-preprocessor@^0.1.4:
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/hardhat-preprocessor/-/hardhat-preprocessor-0.1.4.tgz#daa3004c3d2cca2ce1b5555c0c9b1940670fd022"
-  integrity sha512-TeIi9y5xXf6oKa2BMqXAFQV0tAJRy9MKDElu0VrHMsEVpiUXRh47AEJqWkFpWr2lVLFweif40n1RGxGIEFOPXw==
+hardhat-preprocessor@^0.1.5:
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/hardhat-preprocessor/-/hardhat-preprocessor-0.1.5.tgz#75b22641fd6a680739c995d03bd5f7868eb72144"
+  integrity sha512-j8m44mmPxpxAAd0G8fPHRHOas/INZdzptSur0TNJvMEGcFdLDhbHHxBcqZVQ/bmiW42q4gC60AP4CXn9EF018g==
   dependencies:
     murmur-128 "^0.2.1"
 
